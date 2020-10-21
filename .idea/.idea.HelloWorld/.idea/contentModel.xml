@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\johnn\.nuget\packages\microsoft.net.test.sdk\16.6.1\build\netcoreapp2.1" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\johnn\.nuget\packages\microsoft.testplatform.testhost\16.6.1\build\netcoreapp2.1\x64\testhost.dll" t="Include" />
+    <e p="C:\Users\johnn\.nuget\packages\microsoft.testplatform.testhost\16.6.1\build\netcoreapp2.1\x64\testhost.exe" t="Include" />
+    <e p="C:\Users\johnn\.nuget\packages\xunit.runner.visualstudio\2.4.2\build\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\johnn\.nuget\packages\xunit.runner.visualstudio\2.4.2\build\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\johnn\.nuget\packages\xunit.runner.visualstudio\2.4.2\build\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="C:\Users\johnn\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\johnn\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_HelloWorld.-2012315892.00" t="ExcludeRecursive" />
+    <e p="D:\Sources\HelloWorld" t="IncludeFlat">
+      <e p="HelloWorld" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class1.cs" t="Include" />
+        <e p="HelloWorld.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="HelloWorld.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="HelloWorld.sln" t="IncludeFlat" />
+      <e p="HelloWorld.Test" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="HelloWorld.Test.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="HelloWorld.Test.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="UnitTest1.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
